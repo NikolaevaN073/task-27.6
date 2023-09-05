@@ -14,8 +14,7 @@
 
 * HTML5
 * CSS3 
-* bootstrap-4.6
-* jquery-3.7.0
+* bootstrap-5.3
 * PHP 8.1.9
 * Сервер: Apache/2.4.52 (Win64) PHP/8.1.9
 
